@@ -1,0 +1,15 @@
+node_modules/
+*.log
+.DS_Store
+.idea
+.vscode
+.env
+
+dist
+docs
+tmp
+log
+cache
+
+config/app.development.json
+config/app.production.json
